@@ -12,5 +12,5 @@ elif n == m or m == s:
      print(m)
     
 #les entrées   
-42 42 42 #42
-1 2 3 #le programme n'affiche rien
+#42 42 42 ====>  #42
+#1 2 3 ====>  #le programme n'affiche rien
