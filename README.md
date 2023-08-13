@@ -1,4 +1,4 @@
-#MOOC France Université Numérique - Apprendre à coder avec Python
+###MOOC France Université Numérique - Apprendre à coder avec Python
 
 Bienvenue dans ce dépôt GitHub dédié à mon parcours d'apprentissage sur le MOOC de France Université Numérique (FUN) : "Apprendre à coder avec Python".
 https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/
