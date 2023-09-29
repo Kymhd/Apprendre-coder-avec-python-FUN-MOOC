@@ -1,4 +1,4 @@
-#MOOC France Université Numérique - Apprendre à coder avec Python
+###MOOC France Université Numérique - Apprendre à coder avec Python
 
 Bienvenue dans ce dépôt GitHub dédié à mon parcours d'apprentissage sur le MOOC de France Université Numérique (FUN) : "Apprendre à coder avec Python".
 https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/
@@ -12,12 +12,12 @@ Je m'efforce d'ajouter le maximum d'exercices à ce dépôt, et je continuerai �
 Merci de suivre mon parcours et de partager cette aventure d'apprentissage avec moi.
 
 Plan de cours
-Bloc 1 - ouvert à la semaine 1
+#Bloc 1 - ouvert à la semaine 1
 Module 1 : Bienvenue dans l'environnement Python 3
 Module 2 : Python comme machine à calculer et à écrire
 Module 3 : Les instructions : tous vos désirs sont des ordres
 Module 4 : Les fonctions: créez les outils que vous voulez
-Bloc 2 - ouvert à la semaine 4
+#Bloc 2 - ouvert à la semaine 4
 Module 5 : Les séquences de données pour jouer ou travailler
-Bloc 3 - ouvert à la semaine 7
+#Bloc 3 - ouvert à la semaine 7
 Module 6 : Ensembles et dictionnaires : armes de construction massive
